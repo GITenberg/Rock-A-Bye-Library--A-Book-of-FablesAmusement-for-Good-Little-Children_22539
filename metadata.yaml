@@ -1,0 +1,33 @@
+_repo: Rock-A-Bye-Library--A-Book-of-FablesAmusement-for-Good-Little-Children_22539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2007-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Fables'
+tableOfContents: The fox and the cock -- The giant and the dwarf -- The partridge
+  and her young -- The cock and the jewel -- The dog and the shadow -- The dog and
+  the rat -- The beaver and the fly -- The peaches -- The canary-bird and the wasp
+  -- The quarrel among the beasts -- The dog with his master's dinner -- The pigs.
+title: 'Rock A Bye Library: A Book of Fables
+
+  Amusement for Good Little Children'
+url: http://www.gutenberg.org/ebooks/22539
